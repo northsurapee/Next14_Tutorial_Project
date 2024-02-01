@@ -1,7 +1,8 @@
-export default function Layout({children}) {
+export default function page() {
     return (
       <div>
   
       </div>
     );
   }
+  
